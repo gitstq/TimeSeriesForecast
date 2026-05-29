@@ -1,0 +1,10 @@
+# TimeSeriesForecast - Zero Dependency Time Series Forecasting Tool
+#
+# This project has NO external dependencies.
+# It uses only Python standard library.
+#
+# Optional dependencies (for enhanced features):
+# matplotlib>=3.5.0  # For high-quality chart generation
+#
+# To install with optional matplotlib support:
+# pip install TimeSeriesForecast[matplotlib]
